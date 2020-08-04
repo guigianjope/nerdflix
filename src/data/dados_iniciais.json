@@ -1,104 +1,49 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Jovem Nerd",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Canal no YouTube",
+        "url": "https://www.youtube.com/channel/UCmEClzCBDx-vrt0GuSKBd9g"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Star Wars - Por onde começar?",
+          "url": "https://www.youtube.com/watch?v=PAMlNvcBph0&t=6s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Star Wars Battlefront II - Saudades Luke!",
+          "url": "https://www.youtube.com/watch?v=WL4K8kDo6-Q"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Watch Dogs: Legion - Time Melhor Idade",
+          "url": "https://www.youtube.com/watch?v=bB3akZJtUbA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Man of Medan - Cuidado com o Mano do Medão",
+          "url": "https://www.youtube.com/watch?v=IraMCXlOQlM"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "The Long Dark - À prova de Noobs",
+          "url": "https://www.youtube.com/watch?v=zS7UJodts9w"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "The Last of Us Part II - Explorando uma obra-prima! (SEM SPOILERS)",
+          "url": "https://www.youtube.com/watch?v=rVF2heTWMtY"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Red Dead Redemption 2 Online - Chumbo Quente",
+          "url": "https://www.youtube.com/watch?v=HY6T2zcsSsQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Star Wars Jedi Fallen Order - Quero meu Wookiee!!",
+          "url": "https://www.youtube.com/watch?v=wuRSD07aXLQ"
         }
       ]
     },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
+    
     {
       "titulo": "Filmes",
       "cor": "orange",
@@ -122,12 +67,68 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Pipocando",
+      "cor": "#00C86F",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Canal no YouTube",
+        "url": "https://www.youtube.com/user/pipocandovideos"
       },
+      "videos": [
+        {
+          "titulo": "6 ATORES TOTALMENTE INJUSTIÇADOS!",
+          "url": "https://www.youtube.com/watch?v=AuuW9lPdnPo"
+        },
+        {
+          "titulo": "8 MELHORES FILMES DE GUERRA!",
+          "url": "https://www.youtube.com/watch?v=X9EVzcxqhHU"
+        },
+        {
+          "titulo": "6 FILMES DIFERENTES DA HISTORIA REAL!",
+          "url": "https://www.youtube.com/watch?v=UldEVU_ny2w"
+        },
+        {
+          "titulo": "8 VIAGENS NO TEMPO PRA EXPLODIR SUA CABEÇA!",
+          "url": "https://www.youtube.com/watch?v=2ZOoDt2IsnY"
+        }, 
+        {
+          "titulo": "8 FILMES MAIS CAROS DE TODOS OS TEMPOS!",
+          "url": "https://www.youtube.com/watch?v=aqSexN826pk"
+        }
+      ]
+    },
+    {
+      "titulo": "Ei Nerd",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Canal no YouTube",
+        "url": "https://www.youtube.com/channel/UCt_4wzTQqmcUvemNkeO0plA"
+      },
+      "videos": [
+        {
+          "titulo": "GOKU VS NARUTO | BATALHA MORTAL | Ei Nerd",
+          "url": "https://www.youtube.com/watch?v=PZDsbzBrt30"
+        },
+        {
+          "titulo": "SAIBA COMO TONY STARK VAI VOLTAR AO UCM",
+          "url": "https://www.youtube.com/watch?v=ot0Um8TD5sc"
+        },
+        {
+          "titulo": "OS MEMBROS MAIS FORTES DA AKATSUKI (DO MAIS FRACO PRO MAIS FORTE)",
+          "url": "https://www.youtube.com/watch?v=x8YZ0OITCzw"
+        },
+        {
+          "titulo": "O LADO NEGRO DOS X-MEN | Ei Nerd",
+          "url": "https://www.youtube.com/watch?v=HMGB-TNapbc"
+        },
+        {
+          "titulo": "AS MORTES MAIS MERECIDAS DO UCM (E NÃO MERECIDAS)",
+          "url": "https://www.youtube.com/watch?v=FI_mwATQKYI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",      
       "videos": [
         {
           "titulo": "Final Fantasy 7",
@@ -183,3 +184,4 @@
     }
   ]
 }
+
