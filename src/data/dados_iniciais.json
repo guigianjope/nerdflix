@@ -2,7 +2,6 @@
   "categorias": [
     {
       "titulo": "Jovem Nerd",
-      "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Canal no YouTube",
