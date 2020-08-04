@@ -30,8 +30,10 @@ function Home() {
           return (
             <div key={categoria.id}>
               <BannerMain
-                videoTitle={dadosIniciais[0].videos[0].titulo}
-                url={dadosIniciais[0].videos[0].url}
+                videoTitle={"Star Wars - Por onde começar?"}
+                // videoTitle={dadosIniciais[0].videos[0].titulo} 
+                url={"https://www.youtube.com/watch?v=PAMlNvcBph0&t=6s"}
+                // url={dadosIniciais[0].videos[0].url}
                 videoDescription={dadosIniciais[0].videos[0].description}
               />
               <Carousel
